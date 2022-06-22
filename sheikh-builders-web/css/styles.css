@@ -1,0 +1,99 @@
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.row-content {
+    margin:60px 0px 0px 0px;
+    padding: 50px 50px 50px 50px;
+    min-height:300px;
+    color: floralwhite;
+    background-color: #142633;
+}
+.navbar{
+	background-color: #041429;
+}
+.iframe-container{
+  width: 80%;
+  height: 100%;
+  max-height: 400px;
+}
+.iframe-container iframe{
+	width: 500;
+	height: 364;
+}
+.footer{
+    background-color: #041429;
+    color: floralwhite;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+	margin: 50px 0px 0px 0px;
+    color:floralwhite;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/prj.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+	min-height: 250px;
+}
+.bg-clr {
+	background-color: #161F26;
+}
+.heading{
+	padding:30px 30px 30px 30px;
+    margin:0px 0px 0px 60px;
+    color: floralwhite;
+}
+address{
+    font-size:80%;
+    margin:0px;
+    color: floralwhite;
+}
+.carousel-div{
+    min-height:300px;
+}
+.carousel {
+    background:#161F26;
+}
+.card{
+    background-color: #161F26;
+}
+.card-header{
+    background-color: #161F26;
+}
+.carousel-item {
+  height: 350px;
+  width: 80%;
+  margin-left: 10%;
+}
+#item1{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/sp.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#item2{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/pl.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#item3{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/tc.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#item4{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/house.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#item5{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/plot.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
